@@ -1,0 +1,15 @@
+.container{
+    text-align: center;
+    margin: auto;
+}
+h1{
+    color: darkblue;
+    font-weight: bold;
+}
+p{
+    margin:auto;
+    margin-top: 20px;
+    padding: auto;
+    text-align: right;
+    
+}
